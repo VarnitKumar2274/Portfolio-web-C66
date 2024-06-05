@@ -1,0 +1,37 @@
+
+body {
+    text-align:center;
+    color:white;
+    background-color:black;
+    
+}
+.line {
+    height:  6px;
+    background-color: #ffffff;
+    width: 70px;
+    margin: 8px auto;
+}
+.b {
+    background-color: #000;
+    border-radius: 10px;
+}
+img:hover {
+    scale:0.9;
+    border:solid;
+    border-radius: 20px;
+    border-width:75px;
+    border-color:rgba(169, 169, 169, 0.11)
+}
+#myCarousel {
+    background-color: #000000;
+}
+.p {
+    color:rgb(255, 255, 255);
+    size:80px;
+}
+
+section {
+    background-color: #000;
+    color:white;
+    border-radius:20px;
+}
